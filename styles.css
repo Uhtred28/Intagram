@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+.contenedor {
+    background-color: white;
+    width: 380px;
+    height: 530px;
+    margin: auto;
+    margin-top: 60px;
+}
+.encabezado{
+  display: flex; 
+}
+.nombre1{
+  padding-top: 20px;
+  font-size: 30px;
+ padding-left: 5px; 
+}
+.nombre2{
+  padding-left: 5px;
+}
+
+.tresl {
+padding-top: 20px;
+padding-left: 348px;
+font-size: 20px;
+}
+
+
+
+  
+h3{
+  float: right;
+}
+
+.div2 img{
+  width: 100%;
+}
+.div3{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5px;
+  font-size: 20px;
+}
+.guardar{
+  justify-content: flex-end;
+  padding-right: 5px;
+}
+.div4{
+  padding: 5px;
+}
