@@ -11,20 +11,28 @@ body{
 }
 .encabezado{
   display: flex; 
+  justify-content: space-between;
 }
 .nombre1{
-  padding-top: 20px;
-  font-size: 30px;
+  display: flex;
+ align-items: center;
+  font-size: 20px;
  padding-left: 5px; 
+}
+.nombre1>p{
+  font-size: 15px;
+  padding: 5px;
 }
 .nombre2{
   padding-left: 5px;
+
 }
 
 .tresl {
-padding-top: 20px;
-padding-left: 348px;
+  display: flex;
 font-size: 20px;
+margin-right: 10px;
+align-items: center;
 }
 
 
